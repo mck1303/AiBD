@@ -1,0 +1,773 @@
+Country,Type,Litres
+Afghanistan,beer,0.0
+Afghanistan,pure alcohol,0.0
+Afghanistan,spirit,0.0
+Afghanistan,wine,0.0
+Albania,beer,89.0
+Albania,pure alcohol,4.9
+Albania,spirit,132.0
+Albania,wine,54.0
+Algeria,beer,25.0
+Algeria,pure alcohol,0.7
+Algeria,spirit,0.0
+Algeria,wine,14.0
+Andorra,beer,245.0
+Andorra,pure alcohol,12.4
+Andorra,spirit,138.0
+Andorra,wine,312.0
+Angola,beer,217.0
+Angola,pure alcohol,5.9
+Angola,spirit,57.0
+Angola,wine,45.0
+Antigua & Barbuda,beer,102.0
+Antigua & Barbuda,pure alcohol,4.9
+Antigua & Barbuda,spirit,128.0
+Antigua & Barbuda,wine,45.0
+Argentina,beer,193.0
+Argentina,pure alcohol,8.3
+Argentina,spirit,25.0
+Argentina,wine,221.0
+Armenia,beer,21.0
+Armenia,pure alcohol,3.8
+Armenia,spirit,179.0
+Armenia,wine,11.0
+Australia,beer,261.0
+Australia,pure alcohol,10.4
+Australia,spirit,72.0
+Australia,wine,212.0
+Austria,beer,279.0
+Austria,pure alcohol,9.7
+Austria,spirit,75.0
+Austria,wine,191.0
+Azerbaijan,beer,21.0
+Azerbaijan,pure alcohol,1.3
+Azerbaijan,spirit,46.0
+Azerbaijan,wine,5.0
+Bahamas,beer,122.0
+Bahamas,pure alcohol,6.3
+Bahamas,spirit,176.0
+Bahamas,wine,51.0
+Bahrain,beer,42.0
+Bahrain,pure alcohol,2.0
+Bahrain,spirit,63.0
+Bahrain,wine,7.0
+Bangladesh,beer,0.0
+Bangladesh,pure alcohol,0.0
+Bangladesh,spirit,0.0
+Bangladesh,wine,0.0
+Barbados,beer,143.0
+Barbados,pure alcohol,6.3
+Barbados,spirit,173.0
+Barbados,wine,36.0
+Belarus,beer,142.0
+Belarus,pure alcohol,14.4
+Belarus,spirit,373.0
+Belarus,wine,42.0
+Belgium,beer,295.0
+Belgium,pure alcohol,10.5
+Belgium,spirit,84.0
+Belgium,wine,212.0
+Belize,beer,263.0
+Belize,pure alcohol,6.8
+Belize,spirit,114.0
+Belize,wine,8.0
+Benin,beer,34.0
+Benin,pure alcohol,1.1
+Benin,spirit,4.0
+Benin,wine,13.0
+Bhutan,beer,23.0
+Bhutan,pure alcohol,0.4
+Bhutan,spirit,0.0
+Bhutan,wine,0.0
+Bolivia,beer,167.0
+Bolivia,pure alcohol,3.8
+Bolivia,spirit,41.0
+Bolivia,wine,8.0
+Bosnia-Herzegovina,beer,76.0
+Bosnia-Herzegovina,pure alcohol,4.6
+Bosnia-Herzegovina,spirit,173.0
+Bosnia-Herzegovina,wine,8.0
+Botswana,beer,173.0
+Botswana,pure alcohol,5.4
+Botswana,spirit,35.0
+Botswana,wine,35.0
+Brazil,beer,245.0
+Brazil,pure alcohol,7.2
+Brazil,spirit,145.0
+Brazil,wine,16.0
+Brunei,beer,31.0
+Brunei,pure alcohol,0.6
+Brunei,spirit,2.0
+Brunei,wine,1.0
+Bulgaria,beer,231.0
+Bulgaria,pure alcohol,10.3
+Bulgaria,spirit,252.0
+Bulgaria,wine,94.0
+Burkina Faso,beer,25.0
+Burkina Faso,pure alcohol,4.3
+Burkina Faso,spirit,7.0
+Burkina Faso,wine,7.0
+Burundi,beer,88.0
+Burundi,pure alcohol,6.3
+Burundi,spirit,0.0
+Burundi,wine,0.0
+Cabo Verde,beer,144.0
+Cabo Verde,pure alcohol,4.0
+Cabo Verde,spirit,56.0
+Cabo Verde,wine,16.0
+Cambodia,beer,57.0
+Cambodia,pure alcohol,2.2
+Cambodia,spirit,65.0
+Cambodia,wine,1.0
+Cameroon,beer,147.0
+Cameroon,pure alcohol,5.8
+Cameroon,spirit,1.0
+Cameroon,wine,4.0
+Canada,beer,240.0
+Canada,pure alcohol,8.2
+Canada,spirit,122.0
+Canada,wine,100.0
+Central African Republic,beer,17.0
+Central African Republic,pure alcohol,1.8
+Central African Republic,spirit,2.0
+Central African Republic,wine,1.0
+Chad,beer,15.0
+Chad,pure alcohol,0.4
+Chad,spirit,1.0
+Chad,wine,1.0
+Chile,beer,130.0
+Chile,pure alcohol,7.6
+Chile,spirit,124.0
+Chile,wine,172.0
+China,beer,79.0
+China,pure alcohol,5.0
+China,spirit,192.0
+China,wine,8.0
+Colombia,beer,159.0
+Colombia,pure alcohol,4.2
+Colombia,spirit,76.0
+Colombia,wine,3.0
+Comoros,beer,1.0
+Comoros,pure alcohol,0.1
+Comoros,spirit,3.0
+Comoros,wine,1.0
+Congo,beer,76.0
+Congo,pure alcohol,1.7
+Congo,spirit,1.0
+Congo,wine,9.0
+Cook Islands,beer,0.0
+Cook Islands,pure alcohol,5.9
+Cook Islands,spirit,254.0
+Cook Islands,wine,74.0
+Costa Rica,beer,149.0
+Costa Rica,pure alcohol,4.4
+Costa Rica,spirit,87.0
+Costa Rica,wine,11.0
+Cote d'Ivoire,beer,37.0
+Cote d'Ivoire,pure alcohol,4.0
+Cote d'Ivoire,spirit,1.0
+Cote d'Ivoire,wine,7.0
+Croatia,beer,230.0
+Croatia,pure alcohol,10.2
+Croatia,spirit,87.0
+Croatia,wine,254.0
+Cuba,beer,93.0
+Cuba,pure alcohol,4.2
+Cuba,spirit,137.0
+Cuba,wine,5.0
+Cyprus,beer,192.0
+Cyprus,pure alcohol,8.2
+Cyprus,spirit,154.0
+Cyprus,wine,113.0
+Czech Republic,beer,361.0
+Czech Republic,pure alcohol,11.8
+Czech Republic,spirit,170.0
+Czech Republic,wine,134.0
+DR Congo,beer,32.0
+DR Congo,pure alcohol,2.3
+DR Congo,spirit,3.0
+DR Congo,wine,1.0
+Denmark,beer,224.0
+Denmark,pure alcohol,10.4
+Denmark,spirit,81.0
+Denmark,wine,278.0
+Djibouti,beer,15.0
+Djibouti,pure alcohol,1.1
+Djibouti,spirit,44.0
+Djibouti,wine,3.0
+Dominica,beer,52.0
+Dominica,pure alcohol,6.6
+Dominica,spirit,286.0
+Dominica,wine,26.0
+Dominican Republic,beer,193.0
+Dominican Republic,pure alcohol,6.2
+Dominican Republic,spirit,147.0
+Dominican Republic,wine,9.0
+Ecuador,beer,162.0
+Ecuador,pure alcohol,4.2
+Ecuador,spirit,74.0
+Ecuador,wine,3.0
+Egypt,beer,6.0
+Egypt,pure alcohol,0.2
+Egypt,spirit,4.0
+Egypt,wine,1.0
+El Salvador,beer,52.0
+El Salvador,pure alcohol,2.2
+El Salvador,spirit,69.0
+El Salvador,wine,2.0
+Equatorial Guinea,beer,92.0
+Equatorial Guinea,pure alcohol,5.8
+Equatorial Guinea,spirit,0.0
+Equatorial Guinea,wine,233.0
+Eritrea,beer,18.0
+Eritrea,pure alcohol,0.5
+Eritrea,spirit,0.0
+Eritrea,wine,0.0
+Estonia,beer,224.0
+Estonia,pure alcohol,9.5
+Estonia,spirit,194.0
+Estonia,wine,59.0
+Ethiopia,beer,20.0
+Ethiopia,pure alcohol,0.7
+Ethiopia,spirit,3.0
+Ethiopia,wine,0.0
+Fiji,beer,77.0
+Fiji,pure alcohol,2.0
+Fiji,spirit,35.0
+Fiji,wine,1.0
+Finland,beer,263.0
+Finland,pure alcohol,10.0
+Finland,spirit,133.0
+Finland,wine,97.0
+France,beer,127.0
+France,pure alcohol,11.8
+France,spirit,151.0
+France,wine,370.0
+Gabon,beer,347.0
+Gabon,pure alcohol,8.9
+Gabon,spirit,98.0
+Gabon,wine,59.0
+Gambia,beer,8.0
+Gambia,pure alcohol,2.4
+Gambia,spirit,0.0
+Gambia,wine,1.0
+Georgia,beer,52.0
+Georgia,pure alcohol,5.4
+Georgia,spirit,100.0
+Georgia,wine,149.0
+Germany,beer,346.0
+Germany,pure alcohol,11.3
+Germany,spirit,117.0
+Germany,wine,175.0
+Ghana,beer,31.0
+Ghana,pure alcohol,1.8
+Ghana,spirit,3.0
+Ghana,wine,10.0
+Greece,beer,133.0
+Greece,pure alcohol,8.3
+Greece,spirit,112.0
+Greece,wine,218.0
+Grenada,beer,199.0
+Grenada,pure alcohol,11.9
+Grenada,spirit,438.0
+Grenada,wine,28.0
+Guatemala,beer,53.0
+Guatemala,pure alcohol,2.2
+Guatemala,spirit,69.0
+Guatemala,wine,2.0
+Guinea,beer,9.0
+Guinea,pure alcohol,0.2
+Guinea,spirit,0.0
+Guinea,wine,2.0
+Guinea-Bissau,beer,28.0
+Guinea-Bissau,pure alcohol,2.5
+Guinea-Bissau,spirit,31.0
+Guinea-Bissau,wine,21.0
+Guyana,beer,93.0
+Guyana,pure alcohol,7.1
+Guyana,spirit,302.0
+Guyana,wine,1.0
+Haiti,beer,1.0
+Haiti,pure alcohol,5.9
+Haiti,spirit,326.0
+Haiti,wine,1.0
+Honduras,beer,69.0
+Honduras,pure alcohol,3.0
+Honduras,spirit,98.0
+Honduras,wine,2.0
+Hungary,beer,234.0
+Hungary,pure alcohol,11.3
+Hungary,spirit,215.0
+Hungary,wine,185.0
+Iceland,beer,233.0
+Iceland,pure alcohol,6.6
+Iceland,spirit,61.0
+Iceland,wine,78.0
+India,beer,9.0
+India,pure alcohol,2.2
+India,spirit,114.0
+India,wine,0.0
+Indonesia,beer,5.0
+Indonesia,pure alcohol,0.1
+Indonesia,spirit,1.0
+Indonesia,wine,0.0
+Iran,beer,0.0
+Iran,pure alcohol,0.0
+Iran,spirit,0.0
+Iran,wine,0.0
+Iraq,beer,9.0
+Iraq,pure alcohol,0.2
+Iraq,spirit,3.0
+Iraq,wine,0.0
+Ireland,beer,313.0
+Ireland,pure alcohol,11.4
+Ireland,spirit,118.0
+Ireland,wine,165.0
+Israel,beer,63.0
+Israel,pure alcohol,2.5
+Israel,spirit,69.0
+Israel,wine,9.0
+Italy,beer,85.0
+Italy,pure alcohol,6.5
+Italy,spirit,42.0
+Italy,wine,237.0
+Jamaica,beer,82.0
+Jamaica,pure alcohol,3.4
+Jamaica,spirit,97.0
+Jamaica,wine,9.0
+Japan,beer,77.0
+Japan,pure alcohol,7.0
+Japan,spirit,202.0
+Japan,wine,16.0
+Jordan,beer,6.0
+Jordan,pure alcohol,0.5
+Jordan,spirit,21.0
+Jordan,wine,1.0
+Kazakhstan,beer,124.0
+Kazakhstan,pure alcohol,6.8
+Kazakhstan,spirit,246.0
+Kazakhstan,wine,12.0
+Kenya,beer,58.0
+Kenya,pure alcohol,1.8
+Kenya,spirit,22.0
+Kenya,wine,2.0
+Kiribati,beer,21.0
+Kiribati,pure alcohol,1.0
+Kiribati,spirit,34.0
+Kiribati,wine,1.0
+Kuwait,beer,0.0
+Kuwait,pure alcohol,0.0
+Kuwait,spirit,0.0
+Kuwait,wine,0.0
+Kyrgyzstan,beer,31.0
+Kyrgyzstan,pure alcohol,2.4
+Kyrgyzstan,spirit,97.0
+Kyrgyzstan,wine,6.0
+Laos,beer,62.0
+Laos,pure alcohol,6.2
+Laos,spirit,0.0
+Laos,wine,123.0
+Latvia,beer,281.0
+Latvia,pure alcohol,10.5
+Latvia,spirit,216.0
+Latvia,wine,62.0
+Lebanon,beer,20.0
+Lebanon,pure alcohol,1.9
+Lebanon,spirit,55.0
+Lebanon,wine,31.0
+Lesotho,beer,82.0
+Lesotho,pure alcohol,2.8
+Lesotho,spirit,29.0
+Lesotho,wine,0.0
+Liberia,beer,19.0
+Liberia,pure alcohol,3.1
+Liberia,spirit,152.0
+Liberia,wine,2.0
+Libya,beer,0.0
+Libya,pure alcohol,0.0
+Libya,spirit,0.0
+Libya,wine,0.0
+Lithuania,beer,343.0
+Lithuania,pure alcohol,12.9
+Lithuania,spirit,244.0
+Lithuania,wine,56.0
+Luxembourg,beer,236.0
+Luxembourg,pure alcohol,11.4
+Luxembourg,spirit,133.0
+Luxembourg,wine,271.0
+Macedonia,beer,106.0
+Macedonia,pure alcohol,3.9
+Macedonia,spirit,27.0
+Macedonia,wine,86.0
+Madagascar,beer,26.0
+Madagascar,pure alcohol,0.8
+Madagascar,spirit,15.0
+Madagascar,wine,4.0
+Malawi,beer,8.0
+Malawi,pure alcohol,1.5
+Malawi,spirit,11.0
+Malawi,wine,1.0
+Malaysia,beer,13.0
+Malaysia,pure alcohol,0.3
+Malaysia,spirit,4.0
+Malaysia,wine,0.0
+Maldives,beer,0.0
+Maldives,pure alcohol,0.0
+Maldives,spirit,0.0
+Maldives,wine,0.0
+Mali,beer,5.0
+Mali,pure alcohol,0.6
+Mali,spirit,1.0
+Mali,wine,1.0
+Malta,beer,149.0
+Malta,pure alcohol,6.6
+Malta,spirit,100.0
+Malta,wine,120.0
+Marshall Islands,beer,0.0
+Marshall Islands,pure alcohol,0.0
+Marshall Islands,spirit,0.0
+Marshall Islands,wine,0.0
+Mauritania,beer,0.0
+Mauritania,pure alcohol,0.0
+Mauritania,spirit,0.0
+Mauritania,wine,0.0
+Mauritius,beer,98.0
+Mauritius,pure alcohol,2.6
+Mauritius,spirit,31.0
+Mauritius,wine,18.0
+Mexico,beer,238.0
+Mexico,pure alcohol,5.5
+Mexico,spirit,68.0
+Mexico,wine,5.0
+Micronesia,beer,62.0
+Micronesia,pure alcohol,2.3
+Micronesia,spirit,50.0
+Micronesia,wine,18.0
+Moldova,beer,109.0
+Moldova,pure alcohol,6.3
+Moldova,spirit,226.0
+Moldova,wine,18.0
+Monaco,beer,0.0
+Monaco,pure alcohol,0.0
+Monaco,spirit,0.0
+Monaco,wine,0.0
+Mongolia,beer,77.0
+Mongolia,pure alcohol,4.9
+Mongolia,spirit,189.0
+Mongolia,wine,8.0
+Montenegro,beer,31.0
+Montenegro,pure alcohol,4.9
+Montenegro,spirit,114.0
+Montenegro,wine,128.0
+Morocco,beer,12.0
+Morocco,pure alcohol,0.5
+Morocco,spirit,6.0
+Morocco,wine,10.0
+Mozambique,beer,47.0
+Mozambique,pure alcohol,1.3
+Mozambique,spirit,18.0
+Mozambique,wine,5.0
+Myanmar,beer,5.0
+Myanmar,pure alcohol,0.1
+Myanmar,spirit,1.0
+Myanmar,wine,0.0
+Namibia,beer,376.0
+Namibia,pure alcohol,6.8
+Namibia,spirit,3.0
+Namibia,wine,1.0
+Nauru,beer,49.0
+Nauru,pure alcohol,1.0
+Nauru,spirit,0.0
+Nauru,wine,8.0
+Nepal,beer,5.0
+Nepal,pure alcohol,0.2
+Nepal,spirit,6.0
+Nepal,wine,0.0
+Netherlands,beer,251.0
+Netherlands,pure alcohol,9.4
+Netherlands,spirit,88.0
+Netherlands,wine,190.0
+New Zealand,beer,203.0
+New Zealand,pure alcohol,9.3
+New Zealand,spirit,79.0
+New Zealand,wine,175.0
+Nicaragua,beer,78.0
+Nicaragua,pure alcohol,3.5
+Nicaragua,spirit,118.0
+Nicaragua,wine,1.0
+Niger,beer,3.0
+Niger,pure alcohol,0.1
+Niger,spirit,2.0
+Niger,wine,1.0
+Nigeria,beer,42.0
+Nigeria,pure alcohol,9.1
+Nigeria,spirit,5.0
+Nigeria,wine,2.0
+Niue,beer,188.0
+Niue,pure alcohol,7.0
+Niue,spirit,200.0
+Niue,wine,7.0
+North Korea,beer,0.0
+North Korea,pure alcohol,0.0
+North Korea,spirit,0.0
+North Korea,wine,0.0
+Norway,beer,169.0
+Norway,pure alcohol,6.7
+Norway,spirit,71.0
+Norway,wine,129.0
+Oman,beer,22.0
+Oman,pure alcohol,0.7
+Oman,spirit,16.0
+Oman,wine,1.0
+Pakistan,beer,0.0
+Pakistan,pure alcohol,0.0
+Pakistan,spirit,0.0
+Pakistan,wine,0.0
+Palau,beer,306.0
+Palau,pure alcohol,6.9
+Palau,spirit,63.0
+Palau,wine,23.0
+Panama,beer,285.0
+Panama,pure alcohol,7.2
+Panama,spirit,104.0
+Panama,wine,18.0
+Papua New Guinea,beer,44.0
+Papua New Guinea,pure alcohol,1.5
+Papua New Guinea,spirit,39.0
+Papua New Guinea,wine,1.0
+Paraguay,beer,213.0
+Paraguay,pure alcohol,7.3
+Paraguay,spirit,117.0
+Paraguay,wine,74.0
+Peru,beer,163.0
+Peru,pure alcohol,6.1
+Peru,spirit,160.0
+Peru,wine,21.0
+Philippines,beer,71.0
+Philippines,pure alcohol,4.6
+Philippines,spirit,186.0
+Philippines,wine,1.0
+Poland,beer,343.0
+Poland,pure alcohol,10.9
+Poland,spirit,215.0
+Poland,wine,56.0
+Portugal,beer,194.0
+Portugal,pure alcohol,11.0
+Portugal,spirit,67.0
+Portugal,wine,339.0
+Qatar,beer,1.0
+Qatar,pure alcohol,0.9
+Qatar,spirit,42.0
+Qatar,wine,7.0
+Romania,beer,297.0
+Romania,pure alcohol,10.4
+Romania,spirit,122.0
+Romania,wine,167.0
+Russian Federation,beer,247.0
+Russian Federation,pure alcohol,11.5
+Russian Federation,spirit,326.0
+Russian Federation,wine,73.0
+Rwanda,beer,43.0
+Rwanda,pure alcohol,6.8
+Rwanda,spirit,2.0
+Rwanda,wine,0.0
+Samoa,beer,105.0
+Samoa,pure alcohol,2.6
+Samoa,spirit,18.0
+Samoa,wine,24.0
+San Marino,beer,0.0
+San Marino,pure alcohol,0.0
+San Marino,spirit,0.0
+San Marino,wine,0.0
+Sao Tome & Principe,beer,56.0
+Sao Tome & Principe,pure alcohol,4.2
+Sao Tome & Principe,spirit,38.0
+Sao Tome & Principe,wine,140.0
+Saudi Arabia,beer,0.0
+Saudi Arabia,pure alcohol,0.1
+Saudi Arabia,spirit,5.0
+Saudi Arabia,wine,0.0
+Senegal,beer,9.0
+Senegal,pure alcohol,0.3
+Senegal,spirit,1.0
+Senegal,wine,7.0
+Serbia,beer,283.0
+Serbia,pure alcohol,9.6
+Serbia,spirit,131.0
+Serbia,wine,127.0
+Seychelles,beer,157.0
+Seychelles,pure alcohol,4.1
+Seychelles,spirit,25.0
+Seychelles,wine,51.0
+Sierra Leone,beer,25.0
+Sierra Leone,pure alcohol,6.7
+Sierra Leone,spirit,3.0
+Sierra Leone,wine,2.0
+Singapore,beer,60.0
+Singapore,pure alcohol,1.5
+Singapore,spirit,12.0
+Singapore,wine,11.0
+Slovakia,beer,196.0
+Slovakia,pure alcohol,11.4
+Slovakia,spirit,293.0
+Slovakia,wine,116.0
+Slovenia,beer,270.0
+Slovenia,pure alcohol,10.6
+Slovenia,spirit,51.0
+Slovenia,wine,276.0
+Solomon Islands,beer,56.0
+Solomon Islands,pure alcohol,1.2
+Solomon Islands,spirit,11.0
+Solomon Islands,wine,1.0
+Somalia,beer,0.0
+Somalia,pure alcohol,0.0
+Somalia,spirit,0.0
+Somalia,wine,0.0
+South Africa,beer,225.0
+South Africa,pure alcohol,8.2
+South Africa,spirit,76.0
+South Africa,wine,81.0
+South Korea,beer,140.0
+South Korea,pure alcohol,9.8
+South Korea,spirit,16.0
+South Korea,wine,9.0
+Spain,beer,284.0
+Spain,pure alcohol,10.0
+Spain,spirit,157.0
+Spain,wine,112.0
+Sri Lanka,beer,16.0
+Sri Lanka,pure alcohol,2.2
+Sri Lanka,spirit,104.0
+Sri Lanka,wine,0.0
+St. Kitts & Nevis,beer,194.0
+St. Kitts & Nevis,pure alcohol,7.7
+St. Kitts & Nevis,spirit,205.0
+St. Kitts & Nevis,wine,32.0
+St. Lucia,beer,171.0
+St. Lucia,pure alcohol,10.1
+St. Lucia,spirit,315.0
+St. Lucia,wine,71.0
+St. Vincent & the Grenadines,beer,120.0
+St. Vincent & the Grenadines,pure alcohol,6.3
+St. Vincent & the Grenadines,spirit,221.0
+St. Vincent & the Grenadines,wine,11.0
+Sudan,beer,8.0
+Sudan,pure alcohol,1.7
+Sudan,spirit,13.0
+Sudan,wine,0.0
+Suriname,beer,128.0
+Suriname,pure alcohol,5.6
+Suriname,spirit,178.0
+Suriname,wine,7.0
+Swaziland,beer,90.0
+Swaziland,pure alcohol,4.7
+Swaziland,spirit,2.0
+Swaziland,wine,2.0
+Sweden,beer,152.0
+Sweden,pure alcohol,7.2
+Sweden,spirit,60.0
+Sweden,wine,186.0
+Switzerland,beer,185.0
+Switzerland,pure alcohol,10.2
+Switzerland,spirit,100.0
+Switzerland,wine,280.0
+Syria,beer,5.0
+Syria,pure alcohol,1.0
+Syria,spirit,35.0
+Syria,wine,16.0
+Tajikistan,beer,2.0
+Tajikistan,pure alcohol,0.3
+Tajikistan,spirit,15.0
+Tajikistan,wine,0.0
+Tanzania,beer,36.0
+Tanzania,pure alcohol,5.7
+Tanzania,spirit,6.0
+Tanzania,wine,1.0
+Thailand,beer,99.0
+Thailand,pure alcohol,6.4
+Thailand,spirit,258.0
+Thailand,wine,1.0
+Timor-Leste,beer,1.0
+Timor-Leste,pure alcohol,0.1
+Timor-Leste,spirit,1.0
+Timor-Leste,wine,4.0
+Togo,beer,36.0
+Togo,pure alcohol,1.3
+Togo,spirit,2.0
+Togo,wine,19.0
+Tonga,beer,36.0
+Tonga,pure alcohol,1.1
+Tonga,spirit,21.0
+Tonga,wine,5.0
+Trinidad & Tobago,beer,197.0
+Trinidad & Tobago,pure alcohol,6.4
+Trinidad & Tobago,spirit,156.0
+Trinidad & Tobago,wine,7.0
+Tunisia,beer,51.0
+Tunisia,pure alcohol,1.3
+Tunisia,spirit,3.0
+Tunisia,wine,20.0
+Turkey,beer,51.0
+Turkey,pure alcohol,1.4
+Turkey,spirit,22.0
+Turkey,wine,7.0
+Turkmenistan,beer,19.0
+Turkmenistan,pure alcohol,2.2
+Turkmenistan,spirit,71.0
+Turkmenistan,wine,32.0
+Tuvalu,beer,6.0
+Tuvalu,pure alcohol,1.0
+Tuvalu,spirit,41.0
+Tuvalu,wine,9.0
+USA,beer,249.0
+USA,pure alcohol,8.7
+USA,spirit,158.0
+USA,wine,84.0
+Uganda,beer,45.0
+Uganda,pure alcohol,8.3
+Uganda,spirit,9.0
+Uganda,wine,0.0
+Ukraine,beer,206.0
+Ukraine,pure alcohol,8.9
+Ukraine,spirit,237.0
+Ukraine,wine,45.0
+United Arab Emirates,beer,16.0
+United Arab Emirates,pure alcohol,2.8
+United Arab Emirates,spirit,135.0
+United Arab Emirates,wine,5.0
+United Kingdom,beer,219.0
+United Kingdom,pure alcohol,10.4
+United Kingdom,spirit,126.0
+United Kingdom,wine,195.0
+Uruguay,beer,115.0
+Uruguay,pure alcohol,6.6
+Uruguay,spirit,35.0
+Uruguay,wine,220.0
+Uzbekistan,beer,25.0
+Uzbekistan,pure alcohol,2.4
+Uzbekistan,spirit,101.0
+Uzbekistan,wine,8.0
+Vanuatu,beer,21.0
+Vanuatu,pure alcohol,0.9
+Vanuatu,spirit,18.0
+Vanuatu,wine,11.0
+Venezuela,beer,333.0
+Venezuela,pure alcohol,7.7
+Venezuela,spirit,100.0
+Venezuela,wine,3.0
+Vietnam,beer,111.0
+Vietnam,pure alcohol,2.0
+Vietnam,spirit,2.0
+Vietnam,wine,1.0
+Yemen,beer,6.0
+Yemen,pure alcohol,0.1
+Yemen,spirit,0.0
+Yemen,wine,0.0
+Zambia,beer,32.0
+Zambia,pure alcohol,2.5
+Zambia,spirit,19.0
+Zambia,wine,4.0
+Zimbabwe,beer,64.0
+Zimbabwe,pure alcohol,4.7
+Zimbabwe,spirit,18.0
+Zimbabwe,wine,4.0

@@ -1,0 +1,7 @@
+Oryginalne zestawienie znajduje się w w folderze OriginalData
+
+Zestawienie po procesie przeróbki znajduje się w folderze AnalysisData.
+Wyjaśnienie nazw poszczególnych kolumn:
+**Country - państwo, w którym przeprowadzono badanie,
+**Type - typ napoju alkoholowego (bądź całkowita ilość czystego alkoholu)
+**Litres - ilość spożytej cieczy w litrach na osobę na rok
